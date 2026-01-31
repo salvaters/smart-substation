@@ -1,0 +1,28 @@
+# 后端环境变量配置
+backend/.env
+
+# 前端环境变量配置（如需要）
+mobile-h5/.env
+web-admin/.env
+
+# 日志文件
+backend/logs/
+
+# 上传文件存储
+backend/uploads/
+
+# IDE配置
+.idea/
+*.iml
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.swp
+*.log
+
+# 依赖目录
+node_modules/
